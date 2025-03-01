@@ -40,8 +40,8 @@ streamlit run app.py
 
 ---
 
-## 🎥 Project Preview
-![FoodZone Preview](https://drive.google.com/file/d/1pAyGJtfAe34pWBUpHu_HQFLngfl-_ELF/view?usp=drive_link)
+## 🎬 Experience FoodZone in Action! 🍽️🔥
+![FoodZone Preview](https://cdn.dribbble.com/userupload/24945876/file/original-d6f1789af6de825fa0d56e4f84b4feab.gif)
 
 ---
 
