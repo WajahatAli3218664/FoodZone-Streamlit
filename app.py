@@ -15,6 +15,10 @@ with open("assets/style.css") as f:
 # Main Title
 st.markdown('<h1 class="fadeIn">🍕 FoodieZone</h1>', unsafe_allow_html=True)
 
+# Sidebar with a Suitable Heading
+st.sidebar.markdown('<h2 style="text-align: center;">🍴 Welcome to FoodieZone!</h2>', unsafe_allow_html=True)
+st.sidebar.markdown("Explore our delicious menu and discover the best dishes in town.")
+
 # Navigation
 st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to", ["🏠 Home", "🍽️ Menu", "ℹ️ About", "📞 Contact"])
