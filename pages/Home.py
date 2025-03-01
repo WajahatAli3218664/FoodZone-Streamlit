@@ -1,4 +1,3 @@
-# pages/1_🏠_Home.py
 import streamlit as st
 
 # Custom CSS for Animations and Styling
@@ -168,7 +167,7 @@ st.markdown("""
     <div class="food-slider">
         <img src="https://rakskitchen.net/wp-content/uploads/2021/09/gulab-jamun.jpg" alt="Gulab Jamun">
         <img src="https://www.ndtv.com/cooks/images/Haleem%282%29.jpg" alt="Haleem">
-        <img src="https://media.istockphoto.com/id/1313085999/photo/fried-vegetable-spring-rolls-with-sweet-chili-and-soya-sauce-on-wooden-board.jpg?s=612x612&w=0&k=20&c=OM1OfrBS7D4666h9eZtztqFmQW0Ch15bcMcNbYhUBIo=" alt="Haleem">
+        <img src="https://media.istockphoto.com/id/1313085999/photo/fried-vegetable-spring-rolls-with-sweet-chili-and-soya-sauce-on-wooden-board.jpg?s=612x612&w=0&k=20&c=OM1OfrBS7D4666h9eZtztqFmQW0Ch15bcMcNbYhUBIo=" alt="Spring Rolls">
         <img src="https://www.apnachef.com/wp-content/uploads/2023/12/chicken-biryani-50-people-wide.jpg" alt="Biryani">
         <img src="https://www.chocolatesandchai.com/wp-content/uploads/2022/04/Al-Baik-Chicken-Recipe-h5.jpg" alt="Al Baik Chicken">
         <img src="https://cdn.shopify.com/s/files/1/0570/2113/6986/files/Shahi_Nihari_Tin_-_Chicken_Nihari_-_Chicken_Nihari_Can_-_Tin_Packed_-_Net_Weight_800_Grams_Canned_-_Ready_To_Eat_-_Tasty_Food_04289dfa-6a83-4639-8fb6-4e3796ea0c54.jpg?v=1661857769" alt="Nihari">
