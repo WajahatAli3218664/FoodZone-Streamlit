@@ -1,6 +1,6 @@
 ![FoodZone Banner](https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
-# 🍽️ FoodZone – Your Ultimate Food Ordering Platform!
+# 🍽️ FoodZone – Your Ultimate Food Ordering Platform!🍽️🍕🌟
 
 🚀 **Welcome to FoodZone!** A seamless and user-friendly food ordering web app built using **Streamlit**. Designed to provide an interactive experience, FoodZone simplifies the process of exploring and ordering food effortlessly.
 
