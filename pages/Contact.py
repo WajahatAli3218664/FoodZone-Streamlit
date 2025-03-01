@@ -108,9 +108,9 @@ st.markdown("""
 <div class="contact-section fadeIn">
     <h2>📍 Our Location</h2>
     <p>
-        123 Foodie Street,<br>
-        Tasty City, FC 12345<br>
-        📞 +1 (123) 456-7890
+        Burns Road,<br>
+        Karachi,Sindh, FC 75500<br>
+        📞 +923242042329
     </p>
 </div>
 """, unsafe_allow_html=True)
@@ -123,9 +123,9 @@ st.markdown("""
         Stay connected with us on social media for the latest updates and offers:
     </p>
     <p>
-        <a href="https://facebook.com" target="_blank">Facebook</a> |
+        <a href="https://www.facebook.com/Wajii10" target="_blank">Facebook</a> |
         <a href="https://twitter.com" target="_blank">Twitter</a> |
-        <a href="https://instagram.com" target="_blank">Instagram</a>
+        <a href="https://www.linkedin.com/in/wajahat-ali-3189862b4/" target="_blank">Linkedin</a>
     </p>
 </div>
 """, unsafe_allow_html=True)
