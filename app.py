@@ -16,9 +16,9 @@ with open("assets/style.css") as f:
 st.markdown('<h1 class="fadeIn">🍕 FoodieZone</h1>', unsafe_allow_html=True)
 
 # Sidebar Navigation
-st.sidebar.markdown('<h2 style="color:#FF5733; text-align:center;">📍 Explore FoodieZone</h2>', unsafe_allow_html=True)
+st.sidebar.title("Navigation")
 
-# Navigation Menu (Only showing Home, Menu, About, and Contact)
+# Define pages manually to remove "app"
 page = st.sidebar.radio("", ["🏠 Home", "🍽️ Menu", "ℹ️ About", "📞 Contact"])
 
 # Display Selected Page
