@@ -15,11 +15,9 @@ with open("assets/style.css") as f:
 # Main Title
 st.markdown('<h1 class="fadeIn">🍕 FoodieZone</h1>', unsafe_allow_html=True)
 
-# Sidebar Navigation
+# Navigation
 st.sidebar.title("Navigation")
-
-# Define pages manually to remove "app"
-page = st.sidebar.radio("", ["🏠 Home", "🍽️ Menu", "ℹ️ About", "📞 Contact"])
+page = st.sidebar.radio("Go to", ["🏠 Home", "🍽️ Menu", "ℹ️ About", "📞 Contact"])
 
 # Display Selected Page
 if page == "🏠 Home":
