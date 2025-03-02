@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 10px;
     padding: 15px;
     margin: 10px;
-    background-color: #1e1e1e;
+    background-color: #1e1e1e; /* Changed to dark background */
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden; /* Ensure content doesn't overflow */
 }
@@ -58,6 +58,10 @@ h1, h2, h3, h4, h5, h6 {
 .product-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(76, 175, 80, 0.2); /* Adjusted shadow to match green theme */
+}
+
+.product-card h3, .product-card p {
+    color: #ffffff; /* Ensure text is white */
 }
 
 /* Equal Image Size */
